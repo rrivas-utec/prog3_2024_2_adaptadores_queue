@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\prog3_2024_2_adaptadores_queue.dir\main.cpp.obj: dyndep
+

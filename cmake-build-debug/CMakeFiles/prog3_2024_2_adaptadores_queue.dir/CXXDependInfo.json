@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/rudri/CLionProject/prog3_2024_2_adaptadores_queue/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/rudri/CLionProject/prog3_2024_2_adaptadores_queue",
+	"dir-top-bld" : "C:/Users/rudri/CLionProject/prog3_2024_2_adaptadores_queue/cmake-build-debug",
+	"dir-top-src" : "C:/Users/rudri/CLionProject/prog3_2024_2_adaptadores_queue",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/rudri/CLionProject/prog3_2024_2_adaptadores_queue/cmake-build-debug/CMakeFiles/prog3_2024_2_adaptadores_queue.dir"
+}
